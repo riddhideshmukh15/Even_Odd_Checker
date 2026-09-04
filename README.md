@@ -46,4 +46,3 @@ Even number
 
 **Riddhi Deshmukh**
 
-Made while learning Python 🐍
