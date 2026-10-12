@@ -43,4 +43,3 @@ Number is even
 
 ---
 
-⭐ If you find this project useful, feel free to explore and learn from it!
