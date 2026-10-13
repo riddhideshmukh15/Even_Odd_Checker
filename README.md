@@ -54,4 +54,3 @@ Thank you for using Number Checker!
 
 ---
 
-⭐ This project is part of my Python learning journey and helps me strengthen my programming fundamentals.
